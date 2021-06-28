@@ -1,0 +1,3 @@
+The Model Training notebook is Model_train.ipynb
+The Model Testing notebook is Model_test.ipynb
+The approach used for noise elimination and silence filtering is mentioned in EXP.ipynb
